@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mo Hassan Raza👋
 
-<!--
-**mohassanraza-tech/mohassanraza-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Data Analyst & Frontend Developer  
 
-Here are some ideas to get you started:
+## Skills
+- SQL | Excel | Power BI  
+- Python  
+- HTML, CSS, JavaScript, React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Get internship in Data Analytics / Frontend  
+- Build real-world projects  
+
+## Projects
+- Coming soon 🚀
