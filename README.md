@@ -1,15 +1,15 @@
 # Hi, I'm Mo Hassan Raza👋
 
 🎓 BCA Student  
-💻 Aspiring Data Analyst & Frontend Developer  
+💻 Aspiring Software Engieer & Full Stack Developer  
 
 ## Skills
-- SQL | Excel | Power BI  
+- SQL   
 - Python  
-- HTML, CSS, JavaScript, React  
+- HTML, CSS, JavaScript, React, Flask 
 
 ## Goals
-- Get internship in Data Analytics / Frontend  
+- Get internship in  Full Stack Developer
 - Build real-world projects  
 
 ## Projects
